@@ -1,0 +1,70 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Wolfram 14.3' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       154,          7]
+NotebookDataLength[      1958,         61]
+NotebookOptionsPosition[      1311,         42]
+NotebookOutlinePosition[      1795,         60]
+CellTagsIndexPosition[      1752,         57]
+WindowTitle->Special Defined Number Finder
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell["Special Defined Number Finder", "Title",ExpressionUUID->"d2891230-858e-a945-9465-a84dbd5ad42c"],
+
+Cell["\<\
+Evaluate the input cell below with Shift+Enter to load the local package and \
+show the app.\
+\>", "Text",ExpressionUUID->"127f8c74-1cf8-f54f-9dca-0e2e48339be9"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"Get", "[", 
+   RowBox[{"FileNameJoin", "[", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"NotebookDirectory", "[", "]"}], 
+      ",", "\"\<SpecialDefinedNumberFinder.wl\>\""}], "}"}], "]"}], "]"}], 
+  ";"}], "\n", 
+ RowBox[{"SpecialDefinedNumberFinder`SpecialDefinedNumberFinderApp", "[", 
+  "]"}]}], "Input",
+ InitializationCell->
+  True,ExpressionUUID->"b5218109-0807-8544-8fd5-099e4fe58894"]
+},
+WindowSize->{1320, 920},
+WindowMargins->{{Automatic, 40}, {Automatic, 20}},
+WindowTitle->"Special Defined Number Finder",
+Background->RGBColor[0.95, 0.97, 0.99],
+FrontEndVersion->"14.3 for Microsoft Windows (64-bit) (July 8, 2025)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"87028518-74b0-cd4f-9fc5-12da3112a89d"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[597, 21, 101, 0, 70, "Title",ExpressionUUID->"d2891230-858e-a945-9465-a84dbd5ad42c"],
+Cell[701, 23, 171, 3, 70, "Text",ExpressionUUID->"127f8c74-1cf8-f54f-9dca-0e2e48339be9"],
+Cell[875, 28, 432, 12, 70, "Input",ExpressionUUID->"b5218109-0807-8544-8fd5-099e4fe58894",
+ InitializationCell->True]
+}
+]
+*)
+
+(* End of internal cache information *)
